@@ -61,7 +61,7 @@ My work focuses on driving technical strategy and managing end-to-end execution:
 ### 🤝 leadership & community impact
 
 * 🏥 **hamilton health sciences (hhsva)** — Coordinated donation drives raising $20,000+ in food and $8,000+ in funds for pediatric initiatives.
-* 🏫 **university of waterloo clubs** — Managing M&A market research for UWFA and leading corporate development for the Wealth Management Association.
+* 🏫 **university of waterloo clubs** — Managing M&A market research for UW Finance Association, current Financial Analyst at UW Wealth Management Association, former Corporate Development Associate at UW Wealth Management Association and current Investment Analyst at UW Fintech Club.
 * 🇮🇳 **hindi language mentor** — Drawing on my fluency in Hindi and Punjabi to support language learning and cultural engagement.
 
 ---
