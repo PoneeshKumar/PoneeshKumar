@@ -1,4 +1,4 @@
-## Hi there I'm PONEESH KUMAR 👋
+## Hi there I'm Poneesh Kumar 👋
 
 **CFM (CS + Finance) @ University of Waterloo** · Seeking Summer 2026 Internships
 I build at the intersection of **software, markets, and finance**—from risk pipelines and portfolio analytics to data infrastructure and AI-powered tools. I thrive on leading projects that are practical, rigorous, and a little ambitious.
