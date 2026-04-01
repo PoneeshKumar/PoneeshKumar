@@ -2,7 +2,18 @@
 
 **CFM (CS + Finance) @ University of Waterloo** · Check Out My Website: https://poneesh-portfolio.vercel.app 
 
-I build at the intersection of **software, markets, and finance**—from risk pipelines and portfolio analytics to data infrastructure and AI-powered tools. I thrive on leading projects that are practical, rigorous, and a little ambitious.
+Whether I'm managing risk for a **$1.2M fund** or architecting AI-driven speech therapy platforms, I bridge the gap between **high performance code and financial strategy**. I don't just build apps; I engineer systems from low-latency data pipelines to automated portfolio monitoring that turn complex market signals into **actionable intelligence**.
+
+---
+
+### 🏆 career milestones
+
+* 🥇 **winner: 1st @ claude waterloo hackathon** — Engineered a top-tier solution utilizing Anthropic's Claude models to solve complex real-world challenges.
+* 🏅 **winner: google build with ai** — Co-founded **ArtiCue**, an AI-powered speech therapy platform that earned mentorship from Google engineers.
+* 🏢 **software engineer @ marble investments** — Optimized data pipelines via multi-tier caching, reducing API latency by 30%.
+* 📊 **portfolio advisor project** — Engineered a systematic strategy that generated a 25% annualized return through automated data processing.
+* 📡 **data & research analyst @ nodal research** — Managing risk metrics and asset allocation for a $1.2M AUM fund using Python-based workflows.
+* 🛡️ **certified security professional** — Completed Microsoft Security Essentials, specializing in Zero Trust and AI-powered protection.
 
 ---
 
@@ -36,33 +47,20 @@ I build at the intersection of **software, markets, and finance**—from risk pi
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
----
 
 ### 🚀 leading projects & development
 
 My work focuses on driving technical strategy and managing end-to-end execution:
 * 🏗 **fintech leadership** — Architecting product roadmaps and security frameworks for B2C apps to ensure data integrity.
-* 🤖 **intelligent systems** — Leading the development of AI platforms, integrating LLMs (Gemini) for real-time analysis and personalized feedback.
+* 🤖 **intelligent systems** — Leading the development of AI platforms, integrating LLMs (Gemini/Claude) for real-time analysis and personalized feedback.
 * 📈 **investment engineering** — Building high-throughput market data engines and quantitative dashboards to automate portfolio monitoring.
 
 ---
 
-### 🏆 career milestones
-
-* 🏅 **top 12 finalist @ hack canada** — Co-founded **ArtiCue**, an AI-powered speech therapy platform that earned mentorship from Google engineers.
-* 🏢 **software engineer @ marble investments** — Optimized data pipelines via multi-tier caching, reducing API latency by 30%.
-* 📊 **portfolio advisor project** — Engineered a systematic strategy that generated a 25% annualized return through automated data processing.
-* 📡 **data & research analyst @ nodal research** — Managing risk metrics and asset allocation for a $1.2M AUM fund using Python-based workflows.
-* 🛡️ **certified security professional** — Completed Microsoft Security Essentials, specializing in Zero Trust and AI-powered protection.
-
-
----
-
-
 ### 🤝 leadership & community impact
 
 * 🏥 **hamilton health sciences (hhsva)** — Coordinated donation drives raising $20,000+ in food and $8,000+ in funds for pediatric initiatives.
-* 🏫 **university of waterloo clubs** — Managing M&A market research for UW Finance Association, current Financial Analyst at UW Wealth Management Association, former Corporate Development Associate at UW Wealth Management Association and current Investment Analyst at UW Fintech Club.
+* 🏫 **university of waterloo clubs** — Managing M&A market research for UWFA; Financial Analyst at UW Wealth Management Association; Investment Analyst at UW Fintech Club.
 * 🇮🇳 **hindi language mentor** — Drawing on my fluency in Hindi and Punjabi to support language learning and cultural engagement.
 
 ---
