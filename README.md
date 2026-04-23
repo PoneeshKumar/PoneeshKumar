@@ -7,7 +7,7 @@ Whether I'm managing risk for a **$1.2M fund** or architecting AI-driven speech 
 ---
 
 ### 🏆 career milestones
-* 🏢 **software engineer @ netnow financial** Maing features to assist in credit risk analysis for 85,000+ customers including fortune 500 companies.
+* 🏢 **software engineer @ netnow financial** Making features to assist in credit risk analysis for 85,000+ customers including fortune 500 companies.
 * 🥇 **winner: 1st @ claude waterloo hackathon** — Engineered a top-tier solution utilizing Anthropic's Claude models to solve complex real-world challenges.
 * 🏅 **winner: google build with ai** — Co-founded **ArtiCue**, an AI-powered speech therapy platform that earned mentorship from Google engineers.
 * 🏢 **software engineer @ marble investments** — Optimized data pipelines via multi-tier caching, reducing API latency by 30%.
