@@ -2,7 +2,7 @@
 
 **CFM (CS + Finance) @ University of Waterloo** · Check Out My Website: https://poneesh-portfolio.vercel.app 
 
-Whether I'm managing risk for a **$1.2M fund** or architecting AI-driven speech therapy platforms, I bridge the gap between **high performance code and financial strategy**. I don't just build apps; I engineer systems from low-latency data pipelines to automated portfolio monitoring that turn complex market signals into **actionable intelligence**.
+Whether I'm managing risk for a **$1.2M fund**, automating creditrisk for **fortune 500 companies** or architecting AI-driven speech therapy platforms, I bridge the gap between **high performance code and financial strategy**. I don't just build apps; I engineer systems from low-latency data pipelines to automated portfolio monitoring that turn complex market signals into **actionable intelligence**.
 
 ---
 
