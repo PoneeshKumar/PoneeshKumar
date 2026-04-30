@@ -11,7 +11,7 @@ Whether I'm managing risk for a **$1.2M fund**, automating creditrisk for **fort
 * 🥇 **winner: 1st @ claude waterloo hackathon** — Engineered a top-tier solution utilizing Anthropic's Claude models to solve complex real-world challenges.
 * 🏅 **winner: google build with ai** — Co-founded **ArtiCue**, an AI-powered speech therapy platform that earned mentorship from Google engineers.
 * 🏢 **software engineer @ marble investments** — Optimized data pipelines via multi-tier caching, reducing API latency by 30%.
-* 📊 **portfolio advisor project** — Engineered a systematic strategy that generated a 25% annualized return through automated data processing.
+* 🥈 **portfolio advisor project: 2nd Overall Co-hort wide** — Engineered a systematic strategy that generated a 25% annualized return through automated data processing.
 * 📡 **data & research analyst @ nodal research** — Managing risk metrics and asset allocation for a $1.2M AUM fund using Python-based workflows.
 * 🛡️ **certified security professional** — Completed Microsoft Security Essentials, specializing in Zero Trust and AI-powered protection.
 
